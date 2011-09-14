@@ -31,6 +31,9 @@
     <module>org.sonatype.m2e.antlr</module>
     <module>org.sonatype.m2e.antlr.feature</module>
 
+    <module>org.sonatype.m2e.enforcer</module>
+    <module>org.sonatype.m2e.enforcer.feature</module>
+
     <module>org.sonatype.m2e.buildhelper</module>
     <module>org.sonatype.m2e.buildhelper.feature</module>
 
@@ -45,6 +48,7 @@
     
     <module>org.sonatype.m2e.tests.common</module>
     <module>org.sonatype.m2e.antlr.tests</module>
+    <module>org.sonatype.m2e.enforcer.tests</module>
     <module>org.sonatype.m2e.buildhelper.tests</module>
     <module>org.sonatype.m2e.mavenarchiver.tests</module>
     <module>org.sonatype.m2e.modello.tests</module>
